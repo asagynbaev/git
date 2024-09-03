@@ -2,7 +2,7 @@ class Widget
 {
     public Widget()
     {
-
+        // Вот и конфликт!!!!!!!
     }
 
     public int Id { get; set; }
