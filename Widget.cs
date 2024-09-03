@@ -2,7 +2,7 @@ class Widget
 {
     public Widget()
     {
-        // Вот и конфликт!!!!!!!
+        // TODO Необходимо добавить еще планы на вечер!
     }
 
     public int Id { get; set; }
